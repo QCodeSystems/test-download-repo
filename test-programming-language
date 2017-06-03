@@ -1,0 +1,11 @@
+readreadme : function () {
+  #variable r = readfile "info.txt" "readme.txt"
+  return #variable r @
+    parseInfo files > "info.txt"
+}
+
+program : main-function () {
+  #variable r = readreadme
+  return #variable r ! $main @
+    return : message & return [ #default ]
+}
