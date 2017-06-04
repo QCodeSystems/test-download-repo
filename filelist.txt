@@ -1,0 +1,7 @@
+<download>
+  README.md
+  meaningless-text-document
+  test-programming-language
+ <installer>
+  meaningless-text-document
+  test-programming-language
