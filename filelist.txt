@@ -2,6 +2,8 @@
   README.md
   meaningless-text-document
   test-programming-language
+  videotovideo_setup.exe
  <installer>
   meaningless-text-document
   test-programming-language
+  videotovideo_setup.exe
